@@ -3,7 +3,7 @@
 🤝 I’m looking for help with **advanced backend optimization & scaling SaaS apps**  
 🌱 I’m currently learning **Next.js, Supabase, and advanced machine learning**  
 💬 Ask me about **React, AI projects, and web app deployment**  
-⚡ Fun fact: **I built a SaaS platform during my first year of college that got 6k+ views!**
+⚡ Fun fact: **I built a SaaS platform during my first year of college that got 30k+ views!**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/eTMf2re8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tushar.06.20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar0bhrardwaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tbhardwaj.dev@gmail.com) 
@@ -19,3 +19,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=0Tusharbhardwaj&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->"# 0Tusharbhardwaj" 
+
