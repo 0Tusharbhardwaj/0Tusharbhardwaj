@@ -1,4 +1,4 @@
-🔭 I’m currently working on **full-stack projects (React, TypeScript, AI-based apps)**  
+🔭  I’m currently working on **full-stack projects (React, TypeScript, AI-based apps)**  
 👯 I’m looking to collaborate on **open-source projects, hackathons, and AI tools**  
 🤝 I’m looking for help with **advanced backend optimization & scaling SaaS apps**  
 🌱 I’m currently learning **Next.js, Supabase, and advanced machine learning**  
@@ -19,4 +19,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=0Tusharbhardwaj&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->"# 0Tusharbhardwaj" 
+
 
