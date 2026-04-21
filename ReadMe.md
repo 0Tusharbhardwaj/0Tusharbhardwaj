@@ -1,5 +1,3 @@
-<!-- 🔥 HERO BANNER -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Tushar%20Bhardwaj&fontSize=42&fontColor=ffffff"/>
 
 <h1 align="center">Hi 👋, I'm Tushar Bhardwaj</h1>
@@ -58,7 +56,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0Tusharbhardwaj&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0Tusharbhardwaj&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -66,7 +64,7 @@
 ## 🔥 Total Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=0Tusharbhardwaj&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0Tusharbhardwaj&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -78,7 +76,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Tusharbhardwaj&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Tusharbhardwaj&theme=tokyo-night&area=true" />
 </p>
 
 ---
@@ -102,7 +100,5 @@
 <p align="center">
   ⚡ “I don’t just code — I build products that people use.”
 </p>
-
-<!-- 🔥 FOOTER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
